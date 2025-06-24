@@ -1,3 +1,3 @@
 # Demo
 This is a demo repository.
-Author ~Kashish Chhimwal
+Author ~Kashish Chhimwal(Be CSE)
